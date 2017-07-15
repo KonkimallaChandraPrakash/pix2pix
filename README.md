@@ -23,6 +23,9 @@ Moving forward we prepared the dataset for this problem by using voting techniqu
 
 ![dataset](git_dataset.png)
 
+# PPT
+[PPT link](https://docs.google.com/presentation/d/1uckg2aGYa0CYTAebEwhDBK-SN_tRwsl0UuziH4Ez0LA/edit?usp=sharing) 
+
 ## Setup
 
 ### Prerequisites
