@@ -3,14 +3,18 @@ Most of us have observed the power of generalizaton of gan from works like [pix2
 
 ## Binary to Color
 Left Image is Binarized Image
+
 Middle Image is binary to color networks output
+
 Right Image is Ground Truth
 
 ![binary to color](git_bin_color.png)
 
 ## Color to Binary
 Left Image is Color Image
+
 Middle Image is color to binary networks output
+
 Right Image is Ground Truth
 ![color_to_bnary](git_color_bin.png)
 
