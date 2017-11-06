@@ -19,7 +19,7 @@ Right Image is Ground Truth
 ![color_to_bnary](git_color_bin.png)
 
 # Dataset Preperation
-Moving forward, we prepared the dataset for this problem by using voting technique for every pixel by Otsu's, Kittler, Niblack and Sauvola binarized images.Original Images are taken from BSDS300.
+We have prepared the dataset for this task by using voting technique for every pixel by Otsu's, Kittler, Niblack and Sauvola binarized images.Original Images are taken from BSDS300.
 
 ![dataset](git_dataset.png)
 
