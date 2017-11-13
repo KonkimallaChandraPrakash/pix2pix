@@ -1,5 +1,5 @@
 # Binary to Color and Color to Binary
-Most of us have observed the power of generalizaton of gan from tasks like [pix2pix](https://phillipi.github.io/pix2pix/). In their work pix2pix had tried edges to photo(like binary to color) but showed it on cases like bags and cats but here we tried it in broader way i.e., from Binarized Images to Color Images.Some examples are shown here below:-
+Most of us have observed the power of generalizaton of gans from tasks like [pix2pix](https://phillipi.github.io/pix2pix/). In their work pix2pix had tried edges to photo(like binary to color) but showed it on cases like bags and cats but here we tried it in broader way i.e., from Binarized Images to Color Images.Some examples are shown here below:-
 
 ## Binary to Color
 Left Image is Binarized Image
